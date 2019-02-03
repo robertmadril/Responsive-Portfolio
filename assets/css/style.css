@@ -200,6 +200,12 @@ button {
     .nav-name{
         margin-left: 100px;
     }
+
+    .proj-right{
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+
 }
 
 @media screen and (max-width: 768px) {
@@ -217,6 +223,13 @@ button {
         margin-left: 100px;
     }
 
+    .proj-left{
+        margin-left: 75px;
+    }
+
+    .proj-right{
+        margin-right: 50px;
+    }
 }
 
 @media screen and (max-width: 640px) {
@@ -252,5 +265,19 @@ button {
 
     }
 
+    .ind-img{
+        float: none;
+        margin-left: 40px;
+        margin-right: 10px;
+        width: 80%;
+    }
+
+    .proj-left{
+        margin: 50px 175px 50px 175px;
+    }
+
+    .proj-right{
+        margin: 0px 175px 0px 175px;
+    }
 }
 
