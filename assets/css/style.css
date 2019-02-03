@@ -152,6 +152,7 @@ form {
     height: auto;
     margin: 0;
     margin-top: 10px;
+    margin-bottom: 0px;
 }
 
 .label {
