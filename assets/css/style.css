@@ -199,7 +199,9 @@ button {
         margin-left: 100px;
     }
     .nav-list{
+        width: 300px;
         margin-right: 100px;
+        margin-left:auto;
     }
     .nav-name{
         margin-left: 100px;
@@ -230,9 +232,10 @@ button {
         width: 500px;
         margin-left: 100px;
     }
+
     .nav-list{
-        width: 300px; 
-        margin-right: 0px;
+            width: 300px; 
+            margin-right: 0px;
     }
     .nav-name{
         width: 200px;
